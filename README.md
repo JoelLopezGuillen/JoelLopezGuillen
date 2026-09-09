@@ -2,11 +2,6 @@
 
 Estudiante de Ingeniería en Ciencia de Datos / Informática. Apasionado por la informática y, especialmente, por la Inteligencia Artificial.
 
-## 🔭 En qué estoy trabajando
-
-- **Reservo** — plataforma SaaS de reservas, ligas y gestión de clubes de pádel. Monorepo en Bun (web + PWA, API, app móvil en Expo).
-- Migración de infraestructura de datos (Supabase → Neon) y analítica de producto con PostHog.
-
 ## 🛠️ Stack
 
 **Lenguajes y datos**
