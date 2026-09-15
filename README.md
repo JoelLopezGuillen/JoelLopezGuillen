@@ -19,7 +19,3 @@ Estudiante de Ingeniería en Ciencia de Datos / Informática. Apasionado por la 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-## 📫 Contacto
-
-- Web: [reservopadel.es](https://reservopadel.es)
